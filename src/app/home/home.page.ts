@@ -33,7 +33,7 @@ export class HomePage {
     });
 
     this.contacts.push({
-      image: 'https://images.vexels.com/media/users/3/137048/isolated/lists/64370a4a1c04a2bade31e1d46376270b-usuario-icono-de-trazo-de-persona.png',
+      image: 'https://image.flaticon.com/icons/png/128/129/129840.png',
       name: 'Daniel High',
       number: '3111226348',
       message: '¿Cómo esta el clima arriba?'
@@ -61,7 +61,7 @@ export class HomePage {
     });
 
     this.contacts.push({
-      image: 'https://images.vexels.com/media/users/3/137048/isolated/lists/64370a4a1c04a2bade31e1d46376270b-usuario-icono-de-trazo-de-persona.png',
+      image: 'https://image.flaticon.com/icons/png/128/129/129840.png',
       name: 'Israel Vizcaino',
       number: '3111220123',
       message: 'El master'
@@ -89,7 +89,7 @@ export class HomePage {
     });
 
     this.contacts.push({
-      image: 'https://images.vexels.com/media/users/3/137048/isolated/lists/64370a4a1c04a2bade31e1d46376270b-usuario-icono-de-trazo-de-persona.png',
+      image: 'https://image.flaticon.com/icons/png/128/129/129840.png',
       name: 'Adriana Flores',
       number: '3112355816',
       message: 'Saca la botanita'
@@ -117,7 +117,7 @@ export class HomePage {
     });
 
     this.contacts.push({
-      image: 'https://images.vexels.com/media/users/3/137048/isolated/lists/64370a4a1c04a2bade31e1d46376270b-usuario-icono-de-trazo-de-persona.png',
+      image: 'https://image.flaticon.com/icons/png/128/129/129840.png',
       name: 'Persona de incognito',
       number: '3113830931',
       message: 'No lo sé'
